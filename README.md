@@ -33,5 +33,6 @@ predictive-analytics/
 
 ##LIVE DEMO
 
-predictive-analytics-dashboard-gs.streamlit.app
+https://predictive-analytics-dashboard-gs.streamlit.app/
+
 
