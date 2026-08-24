@@ -21,10 +21,14 @@ Python, Streamlit, Pandas, NumPy, scikit-learn, statsmodels, Plotly
 
 ## Project Structure
 
-```text
+
+##
 predictive-analytics/
 ├── app.py                  # Main Streamlit app
 ├── test_all_combos.py      # Dev-only smoke test (all model x granularity combos)
 ├── sample_sales_data.csv   # Sample dataset (3000 orders, Jan 2025–Jul 2026)
 ├── requirements.txt        # Pinned dependency versions
-└── README.md
+└── READ.ME
+
+
+##LIVE DEMO
